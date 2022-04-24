@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Airban for Business](https://goairban.com)
 
-- 👯 I’m looking to collaborate on on [Decentranet Web3.0 Social Network](https://github.com/adinortey360/decentranet)
+- 👯 I’m looking to collaborate on [Decentranet Web3.0 Social Network](https://github.com/adinortey360/decentranet)
 
 - 🤝 I’m looking for help with [StroopTest for people with ADHD](https://github.com/adinortey360/strooptest)
 
