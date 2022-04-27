@@ -2,13 +2,11 @@
 <h3>A passionate fullstack developer currently based in Ghana 🇬🇭</h3>
 <p>
 I'm a full-stack software developer with 11+ years of relevant experience, an entrepreneur and a content creator. I've always been a firm believer in changing the world through the use of science and technology. This is what has motivated my career choices.
-<br>
+<br><br>
 In today's digital world, everything and anything is becoming automated. Technology is evolving every day and it continues to change the way we live. This is why it's important to me that I invest in my learning and development. I have done this by investing time into starting new and challenging projects with the latest technologies with the intention of brute-forcing my way into new fields in the technology space. This has paid off very well so far.
-<br>
+<br><br>
 If you catch me outside, I'm talking about science, technology and airplanes.
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adinortey360&label=Profile%20views&color=0e75b6&style=flat" alt="adinortey360" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adinortey360" alt="adinortey360" /></a> </p>
 
