@@ -12,22 +12,6 @@ If you catch me outside, I'm talking about science, technology and airplanes.
 
 <p align="left"> <a href="https://twitter.com/adinortey360" target="blank"><img src="https://img.shields.io/twitter/follow/adinortey360?logo=twitter&style=for-the-badge" alt="adinortey360" /></a> </p>
 
-- 🔭 I’m currently working on [Airban for Business](https://goairban.com)
-
-- 👯 I’m looking to collaborate on [Decentranet Web3.0 Social Network](https://github.com/adinortey360/decentranet)
-
-- 🤝 I’m looking for help with [StroopTest for people with ADHD](https://github.com/adinortey360/strooptest)
-
-- 👨‍💻 All of my projects are available at [https://github.com/adinortey360](https://github.com/adinortey360)
-
-- 📝 I regularly write articles on [https://goairban.com/home/insights/](https://goairban.com/home/insights/)
-
-- 📫 How to reach me **adinortey@goairban.com**
-
-- 📄 Know about my experiences [https://goairban.com/home/about/](https://goairban.com/home/about/)
-
-- ⚡ Fun fact **I make good tea ☕**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adinortey360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adinortey360" height="30" width="40" /></a>
