@@ -6,11 +6,11 @@
 <a href="https://instagram.com/adinortey360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adinortey360" height="30" width="40" /></a>
 </p>
 <p>
-I'm a full-stack software developer with 9+ years of experience, an entrepreneur and a content creator. I've always been a firm believer in changing the world through the use of science and technology. This is what has motivated my career choices.
+I'm a full-stack software developer with 9+ years of experience, an entrepreneur, and a content creator. I've always been a firm believer in changing the world through the use of science and technology. This is what has motivated my career choices.
 <br><br>
 In today's digital world, everything and anything is becoming automated. Technology is evolving every day and it continues to change the way we live. This is why it's important to me that I invest in my learning and development. I have done this by investing time into starting new and challenging projects with the latest technologies with the intention of brute-forcing my way into new fields in the technology space. This has paid off very well so far.
 <br><br>
-If you catch me outside, I'm talking about science, technology and airplanes.
+If you catch me outside, I'm talking about science, technology, and airplanes.
 </p>
 <hr>
 <h3 align="left">Frontend:</h3>
